@@ -4,6 +4,8 @@ Here I just want to practice and solve this task.
 
 Repository is named this way, cause many people got `regeneratorRuntime is not defined` error.
 
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
 To check it by your own:
 
 1. `git clone https://github.com/DimaDK24/test_regenerator_runtime.git`
