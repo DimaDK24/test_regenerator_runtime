@@ -6,7 +6,7 @@ Repository is named this way, cause many people got `regeneratorRuntime is not d
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-To check it by your own:
+To check it on your own:
 
 1. `git clone https://github.com/DimaDK24/test_regenerator_runtime.git`
 2. `cd test_regenerator_runtime`
