@@ -1,3 +1,5 @@
+# Regenerator runtime test
+
 [![Tests are passing](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://shields.io/)
 
 Now it seems to be painful to configure babel 7 to work with jest and async/await syntax.
